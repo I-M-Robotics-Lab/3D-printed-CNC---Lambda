@@ -13,11 +13,15 @@ This product is protected under the [CC BY-NC 4.0 license](https://creativecommo
 ## Features
 
 - **Workable Area:** 600x400 mm
-- **Materials:** Wood, Aluminum, Brass, Plexiglass, Plastic
+- **Double Linear Rails**
+- **Ball Screws**
+- **Machinable Materials:** Wood, Aluminum, Brass, Plexiglass, Plastic
+- **Customizable Frame**
 - **Motion Controller:** Black Box X32
 - **Software:** OpenBuild control software
-- **Design:** X-axis ballscrew behind the x-axis aluminum structure
-- **Assembly:** Easy to assemble, educational experience
+- **Supports Many Spindles/Routers**
+- **Motors:** Nema 23 High Torque Motors
+- **Cutting Speed:** 3000 mm/min
 - **Cost:** ~$1300 (with potential for reduction)
 
 ## License
@@ -26,4 +30,4 @@ Lambda is protected under the [CC BY-NC 4.0 license](https://creativecommons.org
 
 ## Contact
 
-For more information, visit [I'M Robotics Lab](#) or contact us at [imlabsbusiness@gmail.com](mailto:imlabsbusiness@gmail.com).
+For more information, visit [I'M Robotics Lab](#https://ddttwang.wixsite.com/imlabs) or contact us at [imlabsbusiness@gmail.com](mailto:imlabsbusiness@gmail.com).
