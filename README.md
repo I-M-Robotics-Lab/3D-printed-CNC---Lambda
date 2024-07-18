@@ -1,6 +1,6 @@
 # Lambda CNC Router
 
-![Lambda CNC Router](path_to_your_photo.jpg)
+![CNC_Assembly_2024-Jul-18_10-57-13PM-000_CustomizedView15803905914](https://github.com/user-attachments/assets/83cb6b11-c1ad-4c7b-a016-56dc520b48e5)
 
 Lambda is an open-source CNC router designed by I'M Robotics Lab. It uses 3D-printed ABS for most of its components. It has a workable area of around 600x400 mm and can machine materials including Wood, Aluminum, Brass, Plexiglass, and Plastic. 
 
