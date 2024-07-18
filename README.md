@@ -26,4 +26,4 @@ Lambda is protected under the [CC BY-NC 4.0 license](https://creativecommons.org
 
 ## Contact
 
-For more information, visit [I'M Robotics Lab](#) or contact us at [email@example.com](mailto:email@example.com).
+For more information, visit [I'M Robotics Lab](#) or contact us at [imlabsbusiness@gmail.com](mailto:imlabsbusiness@gmail.com).
