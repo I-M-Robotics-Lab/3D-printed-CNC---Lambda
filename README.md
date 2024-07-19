@@ -8,7 +8,7 @@ Lambda uses the Black Box X32 as a motion-controlling system, while it uses the 
 
 Straightforward to assemble, and once completed, users have acquired knowledge in CNC building and repair. The cost of it is approximately 1300 US dollars, individuals could reduce cost by replacing the BlackBox control system with cheaper alternatives.
 
-This product is protected under the [CC BY-NC 4.0 license](https://creativecommons.org/licenses/by-nc/4.0/).
+This product is protected under the [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 ## Features
 
@@ -26,7 +26,7 @@ This product is protected under the [CC BY-NC 4.0 license](https://creativecommo
 
 ## License
 
-Lambda is protected under the [CC BY-NC 4.0 license](https://creativecommons.org/licenses/by-nc/4.0/).
+Lambda is protected under the [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 ## Contact
 
