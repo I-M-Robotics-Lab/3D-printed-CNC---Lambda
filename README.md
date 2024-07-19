@@ -30,4 +30,4 @@ Lambda is protected under the [CC BY-NC-SA 4.0](https://creativecommons.org/lice
 
 ## Contact
 
-For more information, visit [I'M Robotics Lab](https://ddttwang.wixsite.com/imlabs) or contact us at [imlabsbusiness@gmail.com](mailto:imlabsbusiness@gmail.com).
+For more information, visit [I'M Robotics Lab](https://www.imroboticslab.com/) or contact us at [imlabsbusiness@gmail.com](mailto:imlabsbusiness@gmail.com).
