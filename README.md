@@ -1,14 +1,10 @@
 # Lambda CNC Router
 
-![CNC_Assembly_2024-Jul-18_10-57-13PM-000_CustomizedView15803905914](https://github.com/user-attachments/assets/83cb6b11-c1ad-4c7b-a016-56dc520b48e5)
+![CNC_Assembly](CNC_Render.png)
 
-Lambda is an open-source CNC router designed by I'M Robotics Lab. It uses 3D-printed ABS for most of its components. It has a workable area of around 600x400 mm and can machine materials including Wood, Aluminum, Brass, Plexiglass, and Plastic. 
+## Description
 
-Lambda uses the Black Box X32 as a motion-controlling system, while it uses the OpenBuild control software. A unique design in Lambda is that the x-axis ballscrew is placed behind the x-axis aluminum structure, this keeps the ballscrew away from dust and chips.
-
-Straightforward to assemble, and once completed, users have acquired knowledge in CNC building and repair. The cost of it is approximately 1300 US dollars, individuals could reduce cost by replacing the BlackBox control system with cheaper alternatives.
-
-This product is protected under the [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+Lambda v2 is a versatile and open-source CNC router designed with accessibility and functionality in mind. Crafted by I'M Robotics Lab, it features a robust design incorporating 3D-printed ABS components for durability and affordability. With a spacious workable area of approximately 600x400 mm, Lambda can handle a variety of materials, including wood, aluminum, brass, plexiglass, and plastic, making it ideal for diverse machining projects. The router is powered by the BlackBox X32 motion controller and utilizes OpenBuild control software, ensuring precise operation and a user-friendly interface. Lambda is designed for straightforward assembly, empowering users to gain valuable hands-on experience in CNC building and repair. Priced around $1,300, Lambda offers exceptional value. For those looking to further reduce costs, the BlackBox control system can be replaced with more affordable alternatives. Lambda combines reliability, customizability, and education, making it the perfect tool for makers, hobbyists, and educators alike. This product is protected under the CC BY-NC-SA 4.0.
 
 ## Features
 
