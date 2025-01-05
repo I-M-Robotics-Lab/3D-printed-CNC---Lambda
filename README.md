@@ -1,6 +1,10 @@
 # Lambda CNC Router
 
-![CNC_Assembly](CNC_Render.png)
+![CNC_Assembly](Pictures/CNC_Render.png)
+![CNC_Front](Pictures/CNC_Render_Front.png)
+![CNC_Side](Pictures/CNC_Render_Side.png)
+![CNC_Mis](Pictures/CNC_Render_Mis.png)
+![CNC_Mis2](Pictures/CNC_Render_Mis2.png)
 
 ## Description
 
